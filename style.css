@@ -1,0 +1,26 @@
+/* poppins-regular - latin */
+@font-face {
+  font-display: swap;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/poppins-v20-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/quicksand-v31-latin-regular.woff2") format("woff2");
+}
+
+h1,
+h2 {
+  font-family: "Poppins";
+}
+
+p,
+nav {
+  font-family: "Quicksand";
+}

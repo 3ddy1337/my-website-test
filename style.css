@@ -15,6 +15,10 @@
   src: url("../fonts/quicksand-v31-latin-regular.woff2") format("woff2");
 }
 
+html {
+  font-family: "Quicksand";
+}
+
 h1,
 h2,
 h3,
